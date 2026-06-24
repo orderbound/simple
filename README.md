@@ -13,6 +13,6 @@
         <button onclick="showMessage()">Klik Saya</button>
     </div>
 
-    <script src="script.js"></script>
+    https://x.com/orderbound
 </body>
 </html># simple
